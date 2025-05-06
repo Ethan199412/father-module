@@ -1,0 +1,8 @@
+{
+  "name": "father-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ethan199412/father-module.git",
+  "author": "ethan",
+  "license": "MIT"
+}
